@@ -187,5 +187,3 @@
       - EMA、优化器、学习率调度
       - 各种训练代码的拼接和管理
       - ![图片2](docs/images/Pasted%20Graphic.png)
-
-# （26.6.29）hello
